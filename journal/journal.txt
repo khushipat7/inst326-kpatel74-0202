@@ -1,3 +1,10 @@
 Week 1 
 
 I used Chatgpt to help with finding potential project ideas for the upcoming group project. i searched up specifically, project ideas for something that involves information retrieval and analysis. 
+
+Week 2
+This week I used AI to again search for potential ideas for the upcoming projects. This helped
+me realize that i need to find a topic where I can use alot of data 
+and find that data to be able to build something. 
+I also used AI as a tool during the exercise, just to make sure what I was doing was correct. I would do the problem and write
+the code myself, and to make sure I was correct, I would run it through AI. 
