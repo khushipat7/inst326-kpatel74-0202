@@ -8,3 +8,7 @@ me realize that i need to find a topic where I can use alot of data
 and find that data to be able to build something. 
 I also used AI as a tool during the exercise, just to make sure what I was doing was correct. I would do the problem and write
 the code myself, and to make sure I was correct, I would run it through AI. 
+
+Week 3
+This week I used AI to assist me with the Week 3 assignments. When I had trouble figuring out what to code, 
+I would put it into ChatGPT to help me understand what to do. 
